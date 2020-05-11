@@ -37,6 +37,7 @@ For each object in our scene we need to find out:
   surface of the object?
   2. if so, what is that value of <img src="/tex/4f4f4e395762a3af4575de74c019ebb5.svg?invert_in_darkmode&sanitize=true" align=middle width=5.936097749999991pt height=20.221802699999984pt/> (and thus what is the position of
      intersection $\mathbf{r}(t) \in \mathbb{R}^3$
+     
   3. and what is the surface's [unit](https://en.wikipedia.org/wiki/Unit_vector)
      [normal vector](https://en.wikipedia.org/wiki/Normal_(geometry)) at the
      point of intersection.
